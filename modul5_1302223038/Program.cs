@@ -1,6 +1,4 @@
 ﻿using System;
-<<<<<<< HEAD
-=======
 using System.ComponentModel;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
@@ -30,22 +28,21 @@ public class SimpleDataBase<T>
         }
     }
 }
->>>>>>> implementasi-generic-class
 
 class Program
 {
     static void Main(string[] args)
     {
         //NIM 1302223038
-<<<<<<< HEAD
+
         Penjumlahan.JumlahTigaAngka<int>(13,02,22);
-=======
+
         SimpleDataBase<int> simpleDataBase = new SimpleDataBase<int>();
         simpleDataBase.AddNewData(13);
         simpleDataBase.AddNewData(02);
         simpleDataBase.AddNewData(22);
         simpleDataBase.PrintAllData();
->>>>>>> implementasi-generic-class
+
 
     }
 }
