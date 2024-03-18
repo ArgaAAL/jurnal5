@@ -1,0 +1,15 @@
+D:\lupa\modul5_1302223038\modul5_1302223038\bin\Debug\net8.0\modul5_1302223038.exe
+D:\lupa\modul5_1302223038\modul5_1302223038\bin\Debug\net8.0\modul5_1302223038.deps.json
+D:\lupa\modul5_1302223038\modul5_1302223038\bin\Debug\net8.0\modul5_1302223038.runtimeconfig.json
+D:\lupa\modul5_1302223038\modul5_1302223038\bin\Debug\net8.0\modul5_1302223038.dll
+D:\lupa\modul5_1302223038\modul5_1302223038\bin\Debug\net8.0\modul5_1302223038.pdb
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\modul5_1302223038.GeneratedMSBuildEditorConfig.editorconfig
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\modul5_1302223038.AssemblyInfoInputs.cache
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\modul5_1302223038.AssemblyInfo.cs
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\modul5_1302223038.csproj.CoreCompileInputs.cache
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\modul5_1302223038.sourcelink.json
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\modul5_1302223038.dll
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\refint\modul5_1302223038.dll
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\modul5_1302223038.pdb
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\modul5_1302223038.genruntimeconfig.cache
+D:\lupa\modul5_1302223038\modul5_1302223038\obj\Debug\net8.0\ref\modul5_1302223038.dll
